@@ -1,0 +1,2 @@
+The value of clothes[0] =0 
+because by default the value of this it mentioned as clothe.length =0 .
